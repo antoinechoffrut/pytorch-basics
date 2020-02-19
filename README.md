@@ -26,3 +26,5 @@ Topics currently covered:
   notebooks implementing linear regression using a varying number of
   functionalities from `PyTorch`  
 - logistic regression  
+- Fourier analysis: 
+  - low-pass filters with `nn.Modules`
